@@ -1,3 +1,6 @@
+[![N|Solid](https://github.com/evandrordacunha/evandrordacunha/blob/master/dev.png?raw=true)] 
+
+
 <h1 align="center">Hi 👋, I'm Evandro Rocha da Cunha</h1>
 <h3 align="center">Bachelor in Information Systems from PUCRS, passionate about technology and lover of new challenges.</h3>
 
