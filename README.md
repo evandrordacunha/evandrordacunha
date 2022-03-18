@@ -1,8 +1,8 @@
 [![N|Solid](https://github.com/evandrordacunha/evandrordacunha/blob/master/dev.png?raw=true)] 
 
 
-<h1 align="center">Hi 👋, I'm Evandro Rocha da Cunha</h1>
-<h3 align="center">Bachelor in Information Systems from PUCRS, passionate about technology and lover of new challenges.</h3>
+
+<h3 align="center">I am a technology and music lover, a software developer graduated from PUC-RS and a collaborator at Empresa Jornalística Caldas Júnior.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evandrordacunha&label=Profile%20views&color=0e75b6&style=flat" alt="evandrordacunha" /> </p>
 
