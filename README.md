@@ -1,4 +1,4 @@
-[![N|Solid](https://github.com/evandrordacunha/evandrordacunha/blob/master/dev.png?raw=true)] 
+![N|Solid](https://github.com/evandrordacunha/evandrordacunha/blob/master/dev.png?raw=true)
 
 
 
